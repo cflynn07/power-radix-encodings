@@ -1,0 +1,25 @@
+{
+  "name": "power-radix-encodings",
+  "version": "0.0.0",
+  "description": "Convenient collection of independently requireable character encodings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cflynn07/power-radix-encodings.git"
+  },
+  "keywords": [
+    "base16",
+    "base58",
+    "base64",
+    "character sets",
+    "encodings"
+  ],
+  "author": "Casey Flynn <cflynn.us@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "object.values": "^1.0.3"
+  }
+}
