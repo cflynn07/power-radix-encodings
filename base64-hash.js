@@ -2,7 +2,6 @@
  * Base64 character encoding in hash format. Keys are corresponding base10 values.
  * @module base64-hash
  */
-
 module.exports = {
   0: 'A',
   1: 'B',
@@ -68,4 +67,4 @@ module.exports = {
   61: '9',
   62: '+',
   63: '/'
-};
+}

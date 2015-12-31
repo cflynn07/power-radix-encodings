@@ -25,5 +25,5 @@ Included Encodings
 ------------------
  - base16-lowercase
  - base16-uppercase
- - base58
+ - base58-bitcoin
  - base64
