@@ -1,6 +1,6 @@
 /**
  * Base16 (hex) encoding, uppercase characters
- * @module base16-uppercase-hash
+ * @module base16-hexadecimal-uppercase-hash
  */
 module.exports = {
   0: '0',
