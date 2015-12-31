@@ -5,6 +5,7 @@ power-radix-encodings
 
 Convenient collection of independently require-able character encodings.  
 Each encoding is available as a hash, with keys representing values in base10, or as an array.
+
 Useful with [power-radix](https://www.npmjs.com/package/power-radix)
 
 Installing
