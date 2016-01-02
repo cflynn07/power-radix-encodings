@@ -1,6 +1,6 @@
 {
   "name": "power-radix-encodings",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Convenient collection of independently requireable character encodings",
   "main": "index.js",
   "scripts": {
