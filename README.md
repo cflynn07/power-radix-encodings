@@ -23,6 +23,7 @@ var base64Array = require('power-radix-encodings/base64')
 
 Included Encodings
 ------------------
+ - ascii-latin1 (extended 8-bit ASCII)
  - base10-decimal
  - base16-hexadecimal-lowercase
  - base16-hexadecimal-uppercase
